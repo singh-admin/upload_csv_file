@@ -2,6 +2,8 @@
 Create a simple python progame (using Fastapi) where user can upload the csv file and it will create a sqlite db where those csv data can upload into database.
 
 ## Project Structure
+- ** template -- folder
+        - **index.html** for rendering the html page.
 - **run.py:** The main FastAPI application file.
 - **req.txt:** all required library in this file.
 
